@@ -1,22 +1,58 @@
-# 3D-animated-website
-This is a 3D Animated Website. It's just a clone website of "thisismagma". Made by help of HTML, CSS, JavaScript.
-It has scrolling animations with are made by help of Canvas. 
-Fully made by the help of HTML, CSS, and JavaScript. Took help from thisismagma website. Magma is International company and this website was made by Magma 
-for having a great experience for customers to interact with 3D animation buildings.
-For better and proper experience open the website in desktop view only.
-### Check out the website from the following link:-
-https://shiv3danimated.netlify.app/
+# 3D Animated Website - Real Estate Building Data Theme
 
-### Here are some samples of this website:- 
-<img width="911" alt="Screenshot 2023-07-24 011109" src="https://github.com/insane21shiv/3D-animated-website/assets/119165586/530c6660-8493-443c-ae7f-3917b889909d">
+This project is a 3D animated website showcasing real estate building data with an interactive digital twin experience. It is built using HTML, CSS, and JavaScript, featuring scrolling animations powered by Canvas.
 
+## Features
 
-<img width="769" alt="Screenshot 2023-07-24 011232" src="https://github.com/insane21shiv/3D-animated-website/assets/119165586/645935d6-b00e-46ef-8089-51e25148f230">
+- Interactive 3D building data visualization
+- Smooth scrolling animations
+- Responsive design optimized for desktop view
+- Video and image media integration
+- Customizable theme with black color scheme
 
+## Getting Started
 
-<img width="437" alt="Screenshot 2023-07-24 011448" src="https://github.com/insane21shiv/3D-animated-website/assets/119165586/da638486-cba7-48b7-a9e6-73ec88051faf">
+### Prerequisites
 
+- A modern web browser (Chrome, Firefox, Edge, Safari)
+- Python 3 (optional, for running a local HTTP server)
 
+### Running the Project
 
-### Visite my LinkedIn profile for amazing websites like this :- 
-https://www.linkedin.com/in/shivendra-kumar-singh-7ba1b8208/
+1. Clone or download the repository to your local machine.
+
+2. To view the website, you can either:
+
+   - Open the `index.html` file directly in your web browser.
+
+   - Or run a local HTTP server (recommended for full functionality):
+
+     ```bash
+     python -m http.server 8000
+     ```
+
+     Then open your browser and navigate to `http://localhost:8000`.
+
+3. Enjoy exploring the 3D animated real estate building data website.
+
+## Customization
+
+- The theme colors are defined in `style.css`. The current theme uses a black color scheme.
+
+- Textual content can be updated in `index.html`.
+
+## Project Structure
+
+- `index.html` - Main HTML file
+- `style.css` - Stylesheet with theme colors and layout
+- `script.js` - JavaScript for animations and interactions
+- `media/` - Folder containing images and videos used in the site
+- Font files for custom fonts
+
+## Author
+
+This project is a clone inspired by the "thisismagma" website, adapted for real estate building data visualization.
+
+## License
+
+This project is open source and available under the MIT License.
